@@ -1,5 +1,8 @@
 # cubiomes
 
+> **Upstream Origin:** This repository is based on the original [cubiomes](https://github.com/Cubitect/cubiomes) library by [Cubitect](https://github.com/Cubitect) under the [MIT License](LICENSE).
+
+
 Cubiomes is a standalone library, written in C, that mimics the biome and feature generation of Minecraft Java Edition.
 It is intended as a powerful tool to devise very fast, custom seed-finding applications and large-scale map viewers with minimal memory usage.
 
