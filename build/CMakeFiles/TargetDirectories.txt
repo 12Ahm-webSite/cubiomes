@@ -1,0 +1,9 @@
+/home/pc/Downloads/cubiomes/build/CMakeFiles/objects.dir
+/home/pc/Downloads/cubiomes/build/CMakeFiles/cubiomes.dir
+/home/pc/Downloads/cubiomes/build/CMakeFiles/cubiomes_static.dir
+/home/pc/Downloads/cubiomes/build/CMakeFiles/edit_cache.dir
+/home/pc/Downloads/cubiomes/build/CMakeFiles/rebuild_cache.dir
+/home/pc/Downloads/cubiomes/build/CMakeFiles/list_install_components.dir
+/home/pc/Downloads/cubiomes/build/CMakeFiles/install.dir
+/home/pc/Downloads/cubiomes/build/CMakeFiles/install/local.dir
+/home/pc/Downloads/cubiomes/build/CMakeFiles/install/strip.dir
